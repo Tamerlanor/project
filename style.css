@@ -1,0 +1,27 @@
+.sin {
+    padding: 21px 121px 1207px;
+}
+
+.onl {
+    position: absolute;
+    width: 22px;
+    height: 21px;
+    left: 121px;
+    top: 184px;
+}
+
+.hou {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    left: 306px;
+    top: 183px;
+}
+
+.sep {
+    position: absolute;
+    width: 20px;
+    height: 22px;
+    left: 467px;
+    top: 183px;
+}
