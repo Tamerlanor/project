@@ -63,6 +63,7 @@ body {
 }
 
 .ye {
+    font-size: 26px;
     margin-top: 75px;
     font-family: "Roboto Slab", sans-serif;
 }
@@ -107,6 +108,7 @@ body {
 }
 
 .format {
+    font-size: 26px;
     margin-top: 76px;
     margin-bottom: 16px;
     font-family: "Roboto Slab", sans-serif;
@@ -140,7 +142,65 @@ body {
 }
 
 .chto {
+    font-size: 26px;
     margin-top: 73px;
     margin-bottom: 9px;
     font-family: "Roboto Slab", sans-serif;
+}
+
+.uznaem {
+    margin-right: 32px;
+}
+
+.programma {
+    font-size: 26px;
+    margin-top: 85px;
+}
+
+.group1 {
+    width: 185px;
+    margin-top: 35px;
+}
+
+.group2 {
+    width: 185px;
+    margin-top: 24px;
+}
+
+.group3 {
+    width: 185px;
+    margin-top: 24px;
+}
+
+.group4 {
+    width: 185px;
+    margin-top: 24px;
+}
+
+.group5 {
+    width: 185px;
+    margin-top: 24px;
+}
+
+.group6 {
+    width: 185px;
+    margin-top: 24px;
+}
+
+.group7 {
+    width: 185px;
+    margin-top: 24px;
+}
+
+.group8 {
+    width: 185px;
+    margin-top: 24px;
+}
+
+.course_program {
+    list-style: none;
+}
+
+.pod {
+    margin-top: 15px;
 }
