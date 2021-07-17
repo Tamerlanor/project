@@ -1,27 +1,146 @@
-.sin {
-    padding: 21px 121px 1207px;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap');
+body {
+    margin: 0;
+
+    font-family: "Roboto", "Arial", sans-serif;
 }
 
-.onl {
-    position: absolute;
-    width: 22px;
-    height: 21px;
-    left: 121px;
-    top: 184px;
+.container {
+    padding: 36px 30px 46px 37px;
 }
 
-.hou {
-    position: absolute;
-    width: 22px;
-    height: 22px;
-    left: 306px;
-    top: 183px;
+.logo {
+    display: block;
+    width: 52px;
+    margin-bottom: 45px;
 }
 
-.sep {
-    position: absolute;
-    width: 20px;
-    height: 22px;
-    left: 467px;
-    top: 183px;
+.conditions {
+    display: flex;
+    margin: 0;
+    padding: 0;
+
+    list-style: none;
+}
+
+.conditions-item {
+    display: flex;
+    align-items: center;
+    margin-right: 14px;
+
+    font-size: 10px;
+}
+
+.conditions-icon {
+    width: 10px;
+    height: 10px;
+    margin-right: 4px;
+}
+
+.hw {
+    width: 293px;
+    font-size: 37px;
+    margin: 0 0 11px;
+    font-family: "Roboto Slab", sans-serif;
+}
+
+.pre {
+    width: 212px;
+    font-size: 10px;
+    margin: 0;
+}
+
+.chel {
+    display: block;
+    width: 141px;
+    margin-left: auto;
+}
+
+.otsa {
+    width: 225px;
+    margin-top: 38px;
+}
+
+.ye {
+    margin-top: 75px;
+    font-family: "Roboto Slab", sans-serif;
+}
+
+.gg {
+    width: 308px;
+    margin-top: 8px;
+}
+
+.otfa {
+    width: 170px;
+    margin-left: 50px;
+}
+
+.lessons {
+    display: flex;
+    margin: 0;
+    padding: 0;
+
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+.yu {
+    margin-right: 49px;
+    margin-bottom: 52px;
+}
+
+.pid {
+    display: flex;
+    margin: 0;
+    padding: 0;
+
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+.dl {
+    margin-right: 33px;
+    margin-top: 1px;
+    margin-bottom: 34px;
+}
+
+.format {
+    margin-top: 76px;
+    margin-bottom: 16px;
+    font-family: "Roboto Slab", sans-serif;
+}
+
+.ho {
+    color: #1E4681;
+    margin-top: 16px;
+}
+
+.otsada {
+    margin-top: 1px;
+}
+
+.dos {
+    margin-top: 10px;
+    color: #1E4681;
+}
+
+.fdfd {
+    margin-top: 1px;
+}
+
+.obsh {
+    margin-top: 19px;
+    color: #1E4681;
+}
+
+.question {
+    margin-top: 1px;
+}
+
+.chto {
+    margin-top: 73px;
+    margin-bottom: 9px;
+    font-family: "Roboto Slab", sans-serif;
 }
