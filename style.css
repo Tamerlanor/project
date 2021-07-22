@@ -203,4 +203,33 @@ body {
 
 .pod {
     margin-top: 15px;
+    font-size: 12px;
+}
+
+.program_title {
+    font-size: 14px;
+}
+
+.pdo {
+    margin-top: 1px;
+    font-size: 12px;
+}
+
+.containerwe {
+    padding: 42px 83px 312px 35px;
+    width: 376px;
+    height: 350px;
+    background-color: #efefef;
+
+}
+
+.proshlo {
+    width: 257px;
+    font-family: "Roboto Slab", sans-serif;
+    font-size: 26px;
+}
+
+.group21 {
+    width: 308px;
+    height: 248px;
 }
