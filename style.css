@@ -217,10 +217,8 @@ body {
 
 .containerwe {
     padding: 42px 83px 312px 35px;
-    width: 376px;
-    height: 350px;
     background-color: #efefef;
-
+    height: 180px;
 }
 
 .proshlo {
@@ -229,7 +227,59 @@ body {
     font-size: 26px;
 }
 
-.group21 {
+
+.border {
+    background: #FFFFFF;
+    padding: 20px;
+    border-radius: 13px;
     width: 308px;
     height: 248px;
+}
+
+.poi {
+    font-size: 10px;
+    padding: 18px 21px 118px 21px;
+}
+
+.containerde {
+    background-color: #9DC9C8;
+    height: 363px;
+    padding-top: 63px;
+}
+
+.nach {
+    width: 224px;
+    height: 63px;
+    margin-top: 62px;
+    font-size: 26px;
+    font-family: "Roboto Slab", sans-serif;
+    margin-left: 57px;
+}
+
+.cash {
+    font-size: 12px;
+    width: 79.22px;
+    height: 14.91px;
+    margin-left: 56px;
+    margin-top: 22px;
+}
+
+.rub {
+    font-size: 37px;
+    margin-left: 56px;
+    margin-top: 10px;
+}
+
+.yr {
+    margin-left: 57px;
+    margin-top: 3px;
+    width: 137px;
+    height: 15px;
+}
+
+.zna {
+    margin-left: 57px;
+    margin-top: 5px;
+    width: 138px;
+    height: 47px;
 }
